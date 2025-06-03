@@ -12,6 +12,8 @@ public class Example{
              bird.playNote(50,1);
              bird.setMove("B",10,50);
              bird.playNote(60,0.5);
+             bird.setTurn("R",90,100);
+             bird.setTurn("R",90,100);
              
         // add code here
         bird.stop();
