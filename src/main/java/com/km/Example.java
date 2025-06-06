@@ -4,6 +4,9 @@ import com.birdbrain.Finch;
 public class Example{
     public static void main(String[] args){
         Finch bird = new Finch();
+        if {
+            
+        }
              bird.setMotors(-50,50);
             bird.setMove("F",10,50);
             bird.setTurn("R",90,100);
